@@ -43,8 +43,8 @@ You can choose between two (2) styles:
   Clone the `main` branch (default) for the classic, non-animated bar.
 
   ```bash
-    git clone https://github.com/sejjy/mechabar.git
-    cd mechabar
+    https://github.com/soheylshorg/wybar-void-green.git
+    cd waybar-void-green
   ```
 
 - **Animated:**
