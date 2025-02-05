@@ -43,7 +43,7 @@ You can choose between two (2) styles:
   Clone the `main` branch (default) for the classic, non-animated bar.
 
   ```bash
-    https://github.com/soheylshorg/waybar-void-green.git
+    git clone https://github.com/soheylshorg/waybar-void-green.git
     cd waybar-void-green
   ```
 
